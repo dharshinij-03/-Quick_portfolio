@@ -2,7 +2,7 @@
 
   "name": "quickportfolio",
   "version": "0.1.0",
-  "homepage": "https://dharshinij-03.github.io/quickportfolio",
+  "homepage": "https://dharshinij-03.github.io/Quick_portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
